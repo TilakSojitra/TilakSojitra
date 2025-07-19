@@ -4,12 +4,12 @@
 I am an Associate Software Engineer passionate about building scalable and robust web applications. My technical expertise spans across TypeScript, ReactJS, NextJS, and NodeJS. I have hands-on experience with AWS services such as S3, EC2, and Cognito, enabling me to deliver secure and efficient solutions.
 
 ## 🚀 Skills & Tools
--- **Programming Languages**: C++, Core Java, Typescript
--- **Programming Frameworks**: ReactJS, Spring Boot, NodeJS, NextJS
--- **Storage Systems**: MySQL, PostgreSQL, MongoDB
--- **Cloud Technologies**: AWS S3, EC2, Cognito, SQS, SES
--- **Tools**: VS Code, Postman, Intellij, Git, Jira
--- **Professional Skills**: Problem Solving, Troubleshooting, Debugging, Communication, Team Collaboration
+- **Programming Languages**: C++, Core Java, Typescript
+- **Programming Frameworks**: ReactJS, Spring Boot, NodeJS, NextJS
+- **Storage Systems**: MySQL, PostgreSQL, MongoDB
+- **Cloud Technologies**: AWS S3, EC2, Cognito, SQS, SES
+- **Tools**: VS Code, Postman, Intellij, Git, Jira
+- **Professional Skills**: Problem Solving, Troubleshooting, Debugging, Communication, Team Collaboration
 
 ## 🌱 Hobbies & Interests
 - Intellectual Debating
