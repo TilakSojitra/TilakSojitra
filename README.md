@@ -5,7 +5,7 @@ I am an Associate Software Engineer passionate about building scalable and robus
 
 ## 🚀 Skills & Tools
 - **Frontend:** ReactJS, NextJS, TypeScript, JavaScript, HTML, CSS
-- **Backend:** NodeJS
+- **Backend:** NodeJS, Spring Boot
 - **Cloud:** AWS (S3, EC2, Cognito)
 - **Others:** Git, GitHub, REST APIs
 
